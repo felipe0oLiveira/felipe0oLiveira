@@ -1,4 +1,6 @@
-<h1 align="center"><h1>🖥️ Hello World!</h1></h1>
+<br clear="both">
+
+<h1 align="center">🖥️ Hello World!</h1>
 
 ###
 
@@ -50,6 +52,9 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/felipe0oLiveira /felipe0oLiveira /output/snake.svg" alt="Snake animation" />
 
 ###
+
