@@ -56,11 +56,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/felipe0oLiveira /felipe0oLiveira /output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ###
