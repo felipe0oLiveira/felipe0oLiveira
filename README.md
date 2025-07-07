@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🧪 Minha Fábrica de Bugs<br>🛠️ Produção industrial de bugs desde: 2022 (quando descobri que = não é o mesmo que ==) 🤦‍♂️<br><br>⚙️ Linha de montagem atual: React | Python (análise de dados) | Java/SpringBoot (sobrevivendo) ☕<br><br>🔍 Controle de qualidade: Estudante de ADS + Eng. Software (90% café, 10% teoria) 📚<br><br><br>🎯 Missões Secundárias<br>- 🛠️ Criar um projeto que não precise de 3 reinícios/dia  <br>- ☕ Convencer o Java que `NullPointerException` não é feature  <br>- 🤔 Descobrir porque todo tutorial diz "é simples" nas partes difíceis  <br><br><br>🕵️‍♂️ Fun Fact<br>"Já debuguei mais horas do que dormi na última semana. Meu recorde é encontrar um bug em produção usando console.log no cliente e dizer 'não consegui reproduzir localmente'." 🐛🔫<br><br>git commit -m "Atualização de bio: agora com +30% de ícones e 100% de autenticidade nerd"<br><br>(PS: Aceito pull requests para melhorar essa bio ou colaboração em projetos interessantes! 👾)</p>
+<p align="left">🧪 Minha Fábrica de Bugs<br>🛠️ Produção industrial de bugs desde: 2022(quando descobri que = não é o mesmo que ==) 🤦‍♂️<br><br>⚙️ Linha de montagem atual: React | Python (análise de dados) | Java/SpringBoot (sobrevivendo) ☕<br><br>🔍 Controle de qualidade: Estudante de ADS + Eng. Software (90% café, 10% teoria) 📚<br><br><br>🎯 Missões Secundárias<br>- 🛠️ Criar um projeto que não precise de 3 reinícios/dia  <br>- ☕ Convencer o Java que `NullPointerException` não é feature  <br>- 🤔 Descobrir porque todo tutorial diz "é simples" nas partes difíceis  <br><br><br>🕵️‍♂️ Fun Fact<br>"Já debuguei mais horas do que dormi na última semana. Meu recorde é encontrar um bug em produção usando console.log no cliente e dizer 'não consegui reproduzir localmente'." 🐛🔫<br><br>git commit -m "Atualização de bio: agora com +30% de ícones e 100% de autenticidade nerd"<br><br>(PS: Aceito pull requests para melhorar essa bio ou colaboração em projetos interessantes! 👾)</p>
 
 ###
 
@@ -52,10 +52,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe0oLiveira /felipe0oLiveira /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe0oLiveira /felipe0oLiveira /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipe0oLiveira /felipe0oLiveira /output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/felipe0oLiveira /felipe0oLiveira /output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
