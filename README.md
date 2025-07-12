@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">🔐 Código nome: [REDACTED] (mas pode me chamar de [seu username])<br>🧙‍♂️ Classe: Full Stack Wizard com especialização em React ⚛️<br>📍 Localização atual: Em algum lugar entre console.log("hello world") 📜 e sudo rm -rf / 💥</p>
+<p align="left">🔐 Código nome: [REDACTED] (mas pode me chamar de felipe0oliveira)<br>🧙‍♂️ Classe: Full Stack Wizard com especialização em React ⚛️<br>📍 Localização atual: Em algum lugar entre console.log("hello world") 📜 e sudo rm -rf / 💥</p>
 
 ###
 
